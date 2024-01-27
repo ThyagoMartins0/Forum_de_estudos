@@ -28,7 +28,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="exercicio.php?dir=exerciciosextras&file=sumtwo">
+                            <a href="exercicio.php?dir=exerciciosextras&file=calculadora">
                             SOMA 2
                             </a>
                         </li>
@@ -49,6 +49,32 @@
                             mapas array
                             </a>
                         
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafioidx">
+                            Desafio Index
+                            </a>
+                        
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafiomss">
+                            Desafio meses
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=operacoes">
+                            operacoes
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=desafiosort">
+                            Sorteio 
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=multidimen">
+                            Array Multidimencional 
+                            </a>
                         </li>
                     <ul>
 
