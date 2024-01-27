@@ -14,6 +14,45 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
+                <div class="modulo caramelo">
+                    <h3> Extra </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=exerciciosextras&file=raiocirc">
+                            CALCULO DE CIRCUNFERENCIA
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=exerciciosextras&file=seethemsg">
+                            VEJA O NUMERO
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=exerciciosextras&file=sumtwo">
+                            SOMA 2
+                            </a>
+                        </li>
+                    <ul>
+
+                    </div>
+                    <div class="modulo preto">
+                    <h3> Arrays </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=basico">
+                            Basico Arrays
+                            </a>
+                        
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=mapa">
+                            mapas array
+                            </a>
+                        
+                        </li>
+                    <ul>
+
+                    </div>
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
