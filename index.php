@@ -32,8 +32,23 @@
                             SOMA 2
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=exerciciosextras&file=CRUD">
+                            CRUD
+                            </a>
+                        </li>
                     <ul>
 
+                    </div>
+                    <div class="modulo caramelo">
+                    <h3> ESTRUTURA DE REPETIÇÃO </h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=repeticao&file=for">
+                            for
+                            </a>
+                        </li>
+                        
                     </div>
                     <div class="modulo preto">
                     <h3> Arrays </h3>
@@ -76,9 +91,30 @@
                             Array Multidimencional 
                             </a>
                         </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=const">
+                            Array constantes  
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=get">
+                           GET  
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=post">
+                           POST  
+                            </a>
+                        </li>
+                        <li>
+                            <a href="exercicio.php?dir=arrays&file=comparacao">
+                           COMPARAÇÃO  
+                            </a>
+                        </li>
                     <ul>
 
                     </div>
+                    
                 <div class="modulo roxo">
                     <h3>4. Controle</h3>
                     <ul>
